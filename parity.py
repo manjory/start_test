@@ -19,6 +19,7 @@ def parity_odd_even(A):
         while A[l]%2==0 and l<r:
             l=l+1
         while A[r]%2!=0 and r>l:
+
             r=r-1
         if A[l]%2!=0 and A[r]%2==0:
             A[l],A[r]=A[r],A[l]
