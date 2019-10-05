@@ -21,4 +21,6 @@ print(first_nonrepeating(Char_String))
 # Char_String='ABCDBAGHC'
 # print(first_nonrepeating(Char_String))
 
+ajksdsjdl
+
 
